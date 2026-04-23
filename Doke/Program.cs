@@ -11,4 +11,6 @@ Attack scratch = new ("Scratch", 2, PokemonType.Normal);
 
 List<Attack> meowsticAttacks = [psychic, psyshock, shadowBall];
 
-Pokemon meowstic = new ("Meowstic", 20, PokemonType.Psychic, meowsticAttacks);
+Pokemon meowsticMale = new ("Meowstic", 20, PokemonType.Psychic, meowsticAttacks);
+Pokemon meowsticFemale = new ("Meowstic", 20, PokemonType.Psychic, meowsticAttacks);
+

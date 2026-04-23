@@ -13,6 +13,7 @@ public class Pokemon
     {
         Name = name;
         MaxHp = maxHp;
+        Hp = maxHp;
         Type = type;
         Attacks = attacks;
     }
@@ -23,8 +24,20 @@ public class Pokemon
         Random rnd = new Random();
         int randomNum = rnd.Next(0, Attacks.Count - 1);
         Attack chosedAttack = Attacks[randomNum];
+        Console.WriteLine($"{Name} used {chosedAttack.Name}!"); 
         return chosedAttack.Damage;
     }
 
-
+    // Considerate Defense Later
+    // Returns if the pokemon is alive (bool)
+    public bool ReceiveDamage(int damage)
+    {
+        Console.WriteLine($"{Name} received {damage} damage!"); 
+        Hp = Hp - damage;
+        if (Hp <= 0)
+            Hp = 0;
+            Console.WriteLine($"{Name} fainted..."); 
+            return false;
+        return true;
+    }
 }
