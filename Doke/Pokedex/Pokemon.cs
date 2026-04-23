@@ -19,13 +19,16 @@ public class Pokemon
     }
 
     // Returns Damage
-    public int RandomAttack()
+    public int RandomAttack(Pokemon target)
     {
         Random rnd = new Random();
         int randomNum = rnd.Next(0, Attacks.Count - 1);
         Attack chosedAttack = Attacks[randomNum];
         Console.WriteLine($"{Name} used {chosedAttack.Name}!"); 
-        return chosedAttack.Damage;
+
+        float multiplier = Multiplier.GetMultiplier(chosedAttack.Type, target.Type);
+        int damage = (int)(chosedAttack.Damage * multiplier);
+        return damage;
     }
 
     // Considerate Defense Later
@@ -34,10 +37,13 @@ public class Pokemon
     {
         Console.WriteLine($"{Name} received {damage} damage!"); 
         Hp = Hp - damage;
+        // Console.WriteLine($"[{Name}] HP: {Hp}"); 
         if (Hp <= 0)
+        {
             Hp = 0;
             Console.WriteLine($"{Name} fainted..."); 
             return false;
+        }
         return true;
     }
 }
