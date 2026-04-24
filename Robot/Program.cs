@@ -1,2 +1,6 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿
+Robot  robo = new ("Robozinho");
+
+int m = 200;
+for (int i= 1; i <= m; i++)
+    robo.Act(i,m);
