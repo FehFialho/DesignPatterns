@@ -1,0 +1,38 @@
+C:\Users\cca1ct\Repositories\ExercisesBase\03 - Design Patterns\Factory\02-Lady\Lady\obj\Debug\net9.0-windows\Lady.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cca1ct\Repositories\ExercisesBase\03 - Design Patterns\Factory\02-Lady\Lady\obj\Debug\net9.0-windows\Lady.AssemblyInfoInputs.cache
+C:\Users\cca1ct\Repositories\ExercisesBase\03 - Design Patterns\Factory\02-Lady\Lady\obj\Debug\net9.0-windows\Lady.AssemblyInfo.cs
+C:\Users\cca1ct\Repositories\ExercisesBase\03 - Design Patterns\Factory\02-Lady\Lady\obj\Debug\net9.0-windows\Lady.csproj.CoreCompileInputs.cache
+C:\Users\cca1ct\Repositories\ExercisesBase\03 - Design Patterns\Factory\02-Lady\Lady\obj\Debug\net9.0-windows\Lady.sourcelink.json
+C:\Users\cca1ct\Repositories\ExercisesBase\03 - Design Patterns\Factory\02-Lady\Lady\bin\Debug\net9.0-windows\Lady.exe
+C:\Users\cca1ct\Repositories\ExercisesBase\03 - Design Patterns\Factory\02-Lady\Lady\bin\Debug\net9.0-windows\Lady.deps.json
+C:\Users\cca1ct\Repositories\ExercisesBase\03 - Design Patterns\Factory\02-Lady\Lady\bin\Debug\net9.0-windows\Lady.runtimeconfig.json
+C:\Users\cca1ct\Repositories\ExercisesBase\03 - Design Patterns\Factory\02-Lady\Lady\bin\Debug\net9.0-windows\Lady.dll
+C:\Users\cca1ct\Repositories\ExercisesBase\03 - Design Patterns\Factory\02-Lady\Lady\bin\Debug\net9.0-windows\Lady.pdb
+C:\Users\cca1ct\Repositories\ExercisesBase\03 - Design Patterns\Factory\02-Lady\Lady\obj\Debug\net9.0-windows\Lady.dll
+C:\Users\cca1ct\Repositories\ExercisesBase\03 - Design Patterns\Factory\02-Lady\Lady\obj\Debug\net9.0-windows\refint\Lady.dll
+C:\Users\cca1ct\Repositories\ExercisesBase\03 - Design Patterns\Factory\02-Lady\Lady\obj\Debug\net9.0-windows\Lady.pdb
+C:\Users\cca1ct\Repositories\ExercisesBase\03 - Design Patterns\Factory\02-Lady\Lady\obj\Debug\net9.0-windows\Lady.genruntimeconfig.cache
+C:\Users\cca1ct\Repositories\ExercisesBase\03 - Design Patterns\Factory\02-Lady\Lady\obj\Debug\net9.0-windows\ref\Lady.dll
+C:\Users\cca1ct\Repositories\ExercisesBase\03 - Design Patterns\Factory\02-Lady\Answer\bin\Debug\net9.0-windows\Lady.exe
+C:\Users\cca1ct\Repositories\ExercisesBase\03 - Design Patterns\Factory\02-Lady\Answer\bin\Debug\net9.0-windows\Lady.deps.json
+C:\Users\cca1ct\Repositories\ExercisesBase\03 - Design Patterns\Factory\02-Lady\Answer\bin\Debug\net9.0-windows\Lady.runtimeconfig.json
+C:\Users\cca1ct\Repositories\ExercisesBase\03 - Design Patterns\Factory\02-Lady\Answer\bin\Debug\net9.0-windows\Lady.dll
+C:\Users\cca1ct\Repositories\ExercisesBase\03 - Design Patterns\Factory\02-Lady\Answer\bin\Debug\net9.0-windows\Lady.pdb
+C:\Users\cca1ct\Repositories\ExercisesBase\03 - Design Patterns\Factory\02-Lady\Answer\obj\Debug\net9.0-windows\Lady.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cca1ct\Repositories\ExercisesBase\03 - Design Patterns\Factory\02-Lady\Answer\obj\Debug\net9.0-windows\Lady.AssemblyInfoInputs.cache
+C:\Users\cca1ct\Repositories\ExercisesBase\03 - Design Patterns\Factory\02-Lady\Answer\obj\Debug\net9.0-windows\Lady.AssemblyInfo.cs
+C:\Users\cca1ct\Repositories\ExercisesBase\03 - Design Patterns\Factory\02-Lady\Answer\obj\Debug\net9.0-windows\Lady.csproj.CoreCompileInputs.cache
+C:\Users\cca1ct\Repositories\ExercisesBase\03 - Design Patterns\Factory\02-Lady\Answer\obj\Debug\net9.0-windows\Lady.sourcelink.json
+C:\Users\cca1ct\Repositories\ExercisesBase\03 - Design Patterns\Factory\02-Lady\Answer\obj\Debug\net9.0-windows\Lady.dll
+C:\Users\cca1ct\Repositories\ExercisesBase\03 - Design Patterns\Factory\02-Lady\Answer\obj\Debug\net9.0-windows\refint\Lady.dll
+C:\Users\cca1ct\Repositories\ExercisesBase\03 - Design Patterns\Factory\02-Lady\Answer\obj\Debug\net9.0-windows\Lady.pdb
+C:\Users\cca1ct\Repositories\ExercisesBase\03 - Design Patterns\Factory\02-Lady\Answer\obj\Debug\net9.0-windows\Lady.genruntimeconfig.cache
+C:\Users\cca1ct\Repositories\ExercisesBase\03 - Design Patterns\Factory\02-Lady\Answer\obj\Debug\net9.0-windows\ref\Lady.dll
+C:\Users\disrct\Desktop\fehfito\DesignPatterns\Lady\obj\Debug\net9.0-windows\Lady.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\disrct\Desktop\fehfito\DesignPatterns\Lady\obj\Debug\net9.0-windows\Lady.AssemblyInfoInputs.cache
+C:\Users\disrct\Desktop\fehfito\DesignPatterns\Lady\obj\Debug\net9.0-windows\Lady.AssemblyInfo.cs
+C:\Users\disrct\Desktop\fehfito\DesignPatterns\Lady\obj\Debug\net9.0-windows\Lady.csproj.CoreCompileInputs.cache
+C:\Users\disrct\Desktop\fehfito\DesignPatterns\Lady\obj\Debug\net9.0-windows\Lady.sourcelink.json
+C:\Users\disrct\Desktop\fehfito\DesignPatterns\Lady\obj\Debug\net9.0-windows\Lady.dll
+C:\Users\disrct\Desktop\fehfito\DesignPatterns\Lady\obj\Debug\net9.0-windows\refint\Lady.dll
+C:\Users\disrct\Desktop\fehfito\DesignPatterns\Lady\obj\Debug\net9.0-windows\Lady.pdb
