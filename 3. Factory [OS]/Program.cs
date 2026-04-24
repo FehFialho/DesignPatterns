@@ -1,6 +1,8 @@
-﻿
-IFactory factory = new MacFactory();
-Application app = new Application(factory);
-app.Logic();
+﻿Factory factory = new();
 
-//Application app = new Application("windows");
+factory.AddFactory("windows", () => new WindowsButton());
+factory.AddFactory("mac", () => new MacButton());
+factory.AddFactory("linux", () => new LinuxButton());
+
+Application app = new Application(factory, "mac");
+app.Logic();
