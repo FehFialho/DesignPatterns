@@ -1,0 +1,15 @@
+C:\Users\disrct\Desktop\fehfito\DesignPatterns\3. Factory [OS]\bin\Debug\net9.0\3. Factory [OS].exe
+C:\Users\disrct\Desktop\fehfito\DesignPatterns\3. Factory [OS]\bin\Debug\net9.0\3. Factory [OS].deps.json
+C:\Users\disrct\Desktop\fehfito\DesignPatterns\3. Factory [OS]\bin\Debug\net9.0\3. Factory [OS].runtimeconfig.json
+C:\Users\disrct\Desktop\fehfito\DesignPatterns\3. Factory [OS]\bin\Debug\net9.0\3. Factory [OS].dll
+C:\Users\disrct\Desktop\fehfito\DesignPatterns\3. Factory [OS]\bin\Debug\net9.0\3. Factory [OS].pdb
+C:\Users\disrct\Desktop\fehfito\DesignPatterns\3. Factory [OS]\obj\Debug\net9.0\3. Factory [OS].GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\disrct\Desktop\fehfito\DesignPatterns\3. Factory [OS]\obj\Debug\net9.0\3. Factory [OS].AssemblyInfoInputs.cache
+C:\Users\disrct\Desktop\fehfito\DesignPatterns\3. Factory [OS]\obj\Debug\net9.0\3. Factory [OS].AssemblyInfo.cs
+C:\Users\disrct\Desktop\fehfito\DesignPatterns\3. Factory [OS]\obj\Debug\net9.0\3. Factory [OS].csproj.CoreCompileInputs.cache
+C:\Users\disrct\Desktop\fehfito\DesignPatterns\3. Factory [OS]\obj\Debug\net9.0\3. Factory [OS].sourcelink.json
+C:\Users\disrct\Desktop\fehfito\DesignPatterns\3. Factory [OS]\obj\Debug\net9.0\3. Factory [OS].dll
+C:\Users\disrct\Desktop\fehfito\DesignPatterns\3. Factory [OS]\obj\Debug\net9.0\refint\3. Factory [OS].dll
+C:\Users\disrct\Desktop\fehfito\DesignPatterns\3. Factory [OS]\obj\Debug\net9.0\3. Factory [OS].pdb
+C:\Users\disrct\Desktop\fehfito\DesignPatterns\3. Factory [OS]\obj\Debug\net9.0\3. Factory [OS].genruntimeconfig.cache
+C:\Users\disrct\Desktop\fehfito\DesignPatterns\3. Factory [OS]\obj\Debug\net9.0\ref\3. Factory [OS].dll
