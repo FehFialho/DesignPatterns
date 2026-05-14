@@ -36,3 +36,10 @@ C:\Users\disrct\Desktop\fehfito\DesignPatterns\Lady\obj\Debug\net9.0-windows\Lad
 C:\Users\disrct\Desktop\fehfito\DesignPatterns\Lady\obj\Debug\net9.0-windows\Lady.dll
 C:\Users\disrct\Desktop\fehfito\DesignPatterns\Lady\obj\Debug\net9.0-windows\refint\Lady.dll
 C:\Users\disrct\Desktop\fehfito\DesignPatterns\Lady\obj\Debug\net9.0-windows\Lady.pdb
+C:\Users\disrct\Desktop\fehfito\DesignPatterns\Lady\bin\Debug\net9.0-windows\Lady.exe
+C:\Users\disrct\Desktop\fehfito\DesignPatterns\Lady\bin\Debug\net9.0-windows\Lady.deps.json
+C:\Users\disrct\Desktop\fehfito\DesignPatterns\Lady\bin\Debug\net9.0-windows\Lady.runtimeconfig.json
+C:\Users\disrct\Desktop\fehfito\DesignPatterns\Lady\bin\Debug\net9.0-windows\Lady.dll
+C:\Users\disrct\Desktop\fehfito\DesignPatterns\Lady\bin\Debug\net9.0-windows\Lady.pdb
+C:\Users\disrct\Desktop\fehfito\DesignPatterns\Lady\obj\Debug\net9.0-windows\Lady.genruntimeconfig.cache
+C:\Users\disrct\Desktop\fehfito\DesignPatterns\Lady\obj\Debug\net9.0-windows\ref\Lady.dll

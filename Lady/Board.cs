@@ -42,6 +42,7 @@ public partial class Board : Form
                     return;
                 }
                 bt.BackColor = Color.Azure;
+                currentFactory = fact.Key;
 
                 // Além de trocar a cor do botão, como acontece a cima, o que é necessário fazer?
                 //=======================================

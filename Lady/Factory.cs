@@ -9,4 +9,9 @@ public class Factory
     // Uma função que tem dois parâmetros do tipo "int" (x,y)
     // e que retorna algo do tipo IShape
     public Dictionary<string, Func<int,int,IShape>> dict = [];
+
+    public void Register(string name, Func<int,int,IShape> form)
+    {
+        dict.Add(name, form);
+    }
 }
