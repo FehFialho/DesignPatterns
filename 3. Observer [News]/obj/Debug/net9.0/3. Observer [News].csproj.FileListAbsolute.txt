@@ -1,0 +1,15 @@
+C:\Users\disrct\Desktop\fehfito\DesignPatterns\3. Observer [News]\bin\Debug\net9.0\3. Observer [News].exe
+C:\Users\disrct\Desktop\fehfito\DesignPatterns\3. Observer [News]\bin\Debug\net9.0\3. Observer [News].deps.json
+C:\Users\disrct\Desktop\fehfito\DesignPatterns\3. Observer [News]\bin\Debug\net9.0\3. Observer [News].runtimeconfig.json
+C:\Users\disrct\Desktop\fehfito\DesignPatterns\3. Observer [News]\bin\Debug\net9.0\3. Observer [News].dll
+C:\Users\disrct\Desktop\fehfito\DesignPatterns\3. Observer [News]\bin\Debug\net9.0\3. Observer [News].pdb
+C:\Users\disrct\Desktop\fehfito\DesignPatterns\3. Observer [News]\obj\Debug\net9.0\3. Observer [News].GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\disrct\Desktop\fehfito\DesignPatterns\3. Observer [News]\obj\Debug\net9.0\3. Observer [News].AssemblyInfoInputs.cache
+C:\Users\disrct\Desktop\fehfito\DesignPatterns\3. Observer [News]\obj\Debug\net9.0\3. Observer [News].AssemblyInfo.cs
+C:\Users\disrct\Desktop\fehfito\DesignPatterns\3. Observer [News]\obj\Debug\net9.0\3. Observer [News].csproj.CoreCompileInputs.cache
+C:\Users\disrct\Desktop\fehfito\DesignPatterns\3. Observer [News]\obj\Debug\net9.0\3. Observer [News].sourcelink.json
+C:\Users\disrct\Desktop\fehfito\DesignPatterns\3. Observer [News]\obj\Debug\net9.0\3. Observer [News].dll
+C:\Users\disrct\Desktop\fehfito\DesignPatterns\3. Observer [News]\obj\Debug\net9.0\refint\3. Observer [News].dll
+C:\Users\disrct\Desktop\fehfito\DesignPatterns\3. Observer [News]\obj\Debug\net9.0\3. Observer [News].pdb
+C:\Users\disrct\Desktop\fehfito\DesignPatterns\3. Observer [News]\obj\Debug\net9.0\3. Observer [News].genruntimeconfig.cache
+C:\Users\disrct\Desktop\fehfito\DesignPatterns\3. Observer [News]\obj\Debug\net9.0\ref\3. Observer [News].dll
