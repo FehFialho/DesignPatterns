@@ -1,0 +1,15 @@
+C:\Users\disrct\Desktop\fehfito\DesignPatterns\5. Prova\bin\Debug\net9.0\5. Prova.exe
+C:\Users\disrct\Desktop\fehfito\DesignPatterns\5. Prova\bin\Debug\net9.0\5. Prova.deps.json
+C:\Users\disrct\Desktop\fehfito\DesignPatterns\5. Prova\bin\Debug\net9.0\5. Prova.runtimeconfig.json
+C:\Users\disrct\Desktop\fehfito\DesignPatterns\5. Prova\bin\Debug\net9.0\5. Prova.dll
+C:\Users\disrct\Desktop\fehfito\DesignPatterns\5. Prova\bin\Debug\net9.0\5. Prova.pdb
+C:\Users\disrct\Desktop\fehfito\DesignPatterns\5. Prova\obj\Debug\net9.0\5. Prova.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\disrct\Desktop\fehfito\DesignPatterns\5. Prova\obj\Debug\net9.0\5. Prova.AssemblyInfoInputs.cache
+C:\Users\disrct\Desktop\fehfito\DesignPatterns\5. Prova\obj\Debug\net9.0\5. Prova.AssemblyInfo.cs
+C:\Users\disrct\Desktop\fehfito\DesignPatterns\5. Prova\obj\Debug\net9.0\5. Prova.csproj.CoreCompileInputs.cache
+C:\Users\disrct\Desktop\fehfito\DesignPatterns\5. Prova\obj\Debug\net9.0\5. Prova.sourcelink.json
+C:\Users\disrct\Desktop\fehfito\DesignPatterns\5. Prova\obj\Debug\net9.0\5. Prova.dll
+C:\Users\disrct\Desktop\fehfito\DesignPatterns\5. Prova\obj\Debug\net9.0\refint\5. Prova.dll
+C:\Users\disrct\Desktop\fehfito\DesignPatterns\5. Prova\obj\Debug\net9.0\5. Prova.pdb
+C:\Users\disrct\Desktop\fehfito\DesignPatterns\5. Prova\obj\Debug\net9.0\5. Prova.genruntimeconfig.cache
+C:\Users\disrct\Desktop\fehfito\DesignPatterns\5. Prova\obj\Debug\net9.0\ref\5. Prova.dll
